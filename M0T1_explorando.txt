@@ -1,1 +1,10 @@
+Pestañas
+Barra de Herramientas
+Barra de Marcadores
+Barra de Direcciones
+Barra de Búsqueda
+Menú
+Área de Página Web (o de trabajo)
+Barra de Estado
+Barras de Desplazamiento
 
